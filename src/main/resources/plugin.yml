@@ -1,0 +1,5 @@
+name: BCRedisConnector
+main: com.mcndsj.BC_RedisConnector.BCRedisConnector
+version: 1.0
+depends: [SQL_lib]
+author: MatthewYu
